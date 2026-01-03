@@ -9,9 +9,6 @@
   <a href="https://open-entity.com?utm_source=github&utm_medium=profile">
     <img src="https://img.shields.io/badge/WEBSITE-OpenEntity.com-blue?style=for-the-badge&logo=google-chrome" alt="OpenEntity Website" />
   </a>
-  <a href="https://wa.me/YOUR_NUMBER">
-    <img src="https://img.shields.io/badge/WHATSAPP-Chat_With_Us-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Contact" />
-  </a>
 
 </div>
 
